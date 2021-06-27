@@ -3,7 +3,9 @@
 
 ***This is a currency converter app made using Flutter/Dart and HG finance API***
 
-**This is one of my firts projects using Flutter**
+**This is one of my firt projects using Flutter**
+
+**This app was made following an udemy tutorial**
 
 **I made this app to learn how to use flutter, so don't expect much**
 
