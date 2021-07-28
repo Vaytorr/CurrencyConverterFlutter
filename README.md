@@ -1,4 +1,6 @@
 
+[Versão em português desse arquivo](https://github.com/guibrandalisee/CurrencyConverterFlutter/blob/master/READMEPT.md)
+
 # Currency Converter Flutter
 
 ***This is a currency converter app made using Flutter/Dart and HG finance API***
@@ -15,4 +17,4 @@ The app can convert from and to (USD, EUR, BRL and Bitcoin)
 
 Why doesn't it support more currencies? As I said I made this app to learn Flutter
 
-This app is quite old, so, somethings may not work with newer versions of plugins used
+This app is quite old, so, somethings may not work with newer versions of the packages used
