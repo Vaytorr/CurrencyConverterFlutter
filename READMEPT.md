@@ -4,7 +4,7 @@
 
 ***Esse é um aplicativo para converter moedas feito usando Flutter/Dart e a API da HG finance***
 
-**Esse é um dos meus primeiros projetos feitos usando flutter*
+**Esse é um dos meus primeiros projetos feitos usando flutter**
 
 **O App foi feito seguindo um tutorial da udemy**
 
