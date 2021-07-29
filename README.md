@@ -11,7 +11,7 @@
 
 **I made this app to learn how to use flutter, so don't expect much**
 
-<img src="https://github.com/Vaytorr/CurrencyConverterFlutter/blob/master/images/app.jpg?raw=true" height="500">
+<img src="https://user-images.githubusercontent.com/41174096/127569303-2ce925ed-2178-4331-b080-ba552c76be31.png" height="500">
 
 The app can convert from and to (USD, EUR, BRL and Bitcoin)
 
